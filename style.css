@@ -1,0 +1,17 @@
+h1 {
+	font-size: 35px;
+	line-height: 1.5em;
+	font-family: "verdana",coimic,sans;
+	text-align: center;
+	padding: 40px 0;
+	color: white;
+}
+
+
+
+body {
+	background-image: url('https://www.setaswall.com/wp-content/uploads/2017/03/Night-Burj-Khalifa-Tower-Dubai-Wallpaper-1680x1050.jpg');
+	background-size:cover;
+	margin: 0;
+
+}
